@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta
+      name="description"
+      content="Propriedades, fechaduras e códigos de entrada — A Proa do Moliceiro."
+    />
+    <title>Propriedades — A Proa do Moliceiro</title>
+    <link rel="icon" type="image/png" href="./assets/logo-J6ktg5eL.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      // Default to light; only use dark when the user explicitly chose it.
+      (function () {
+        try {
+          var dark = localStorage.getItem("apm-checkouts-theme") === "dark";
+          document.documentElement.setAttribute(
+            "data-theme",
+            dark ? "dark" : "light",
+          );
+        } catch (e) {}
+      })();
+    </script>
+    <script type="module" crossorigin src="./assets/index-D1oJMcEj.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-Bi2e3bWE.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>

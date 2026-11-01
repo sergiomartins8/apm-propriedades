@@ -1,0 +1,299 @@
+{
+  "buildings": [
+    {
+      "name": "Square",
+      "codes": {
+        "building": "#5484#"
+      },
+      "units": [
+        {
+          "name": "Square B",
+          "lock": "lockin"
+        }
+      ]
+    },
+    {
+      "name": "DOCA 1",
+      "codes": {
+        "condo": "#0323#",
+        "building": "#0324#"
+      },
+      "units": [
+        {
+          "name": "DOCA 1 A 1.2",
+          "lock": "lockin"
+        }
+      ]
+    },
+    {
+      "name": "DOCA 2",
+      "codes": {
+        "condo": "#070680#",
+        "building": "#010313#"
+      },
+      "units": [
+        {
+          "name": "DOCA 2 A 0.6",
+          "lock": "lockin"
+        }
+      ]
+    },
+    {
+      "name": "White",
+      "codes": {
+        "avenue": "#9050",
+        "dojo": "#9014"
+      },
+      "units": [
+        {
+          "name": "White 405",
+          "lock": "tedee"
+        }
+      ]
+    },
+    {
+      "name": "iConik",
+      "codes": {
+        "building": "9119<"
+      },
+      "units": [
+        {
+          "name": "iConik 0.1",
+          "lock": "tedee"
+        },
+        {
+          "name": "iConik 1.1",
+          "lock": "tedee"
+        },
+        {
+          "name": "iConik 1.2",
+          "lock": "tedee"
+        },
+        {
+          "name": "iConik 2.1",
+          "lock": "tedee"
+        },
+        {
+          "name": "iConik 2.2",
+          "lock": "tedee"
+        },
+        {
+          "name": "iConik 3.1",
+          "lock": "tedee"
+        }
+      ]
+    },
+    {
+      "name": "Blanc 7",
+      "codes": {
+        "building": "#2307#"
+      },
+      "units": [
+        {
+          "name": "Blanc 7 2.3",
+          "lock": "lockin"
+        }
+      ]
+    },
+    {
+      "name": "Blanc 18",
+      "codes": {
+        "building": "#1809#"
+      },
+      "units": [
+        {
+          "name": "Blanc 18 1.6 A",
+          "lock": "tedee"
+        },
+        {
+          "name": "Blanc 18 1.7 A",
+          "lock": "tedee"
+        },
+        {
+          "name": "Blanc 18 3.6",
+          "lock": "lockin"
+        }
+      ]
+    },
+    {
+      "name": "Blanc 28",
+      "codes": {
+        "building": "#2809#"
+      },
+      "units": [
+        {
+          "name": "Blanc 28 2.10",
+          "lock": "danalock"
+        }
+      ]
+    },
+    {
+      "name": "Canal",
+      "codes": {
+        "building": "3920#"
+      },
+      "units": [
+        {
+          "name": "Canal G",
+          "lock": "lockin"
+        },
+        {
+          "name": "Canal I",
+          "lock": "tedee"
+        },
+        {
+          "name": "Canal K",
+          "lock": "danalock"
+        },
+        {
+          "name": "Canal L",
+          "lock": "tedee"
+        }
+      ]
+    },
+    {
+      "name": "GreenView",
+      "codes": {
+        "building": "A2025"
+      },
+      "units": [
+        {
+          "name": "GreenView D",
+          "lock": "tedee"
+        },
+        {
+          "name": "GreenView F",
+          "lock": "tedee"
+        }
+      ]
+    },
+    {
+      "name": "Beira Ria",
+      "codes": {
+        "building": "3287#"
+      },
+      "units": [
+        {
+          "name": "Beira Ria 1",
+          "lock": "nuki"
+        },
+        {
+          "name": "Beira Ria 2",
+          "lock": "nuki"
+        },
+        {
+          "name": "Beira Ria Loft",
+          "lock": "nuki"
+        }
+      ]
+    },
+    {
+      "name": "Ria Laço",
+      "codes": {
+        "building": "9154"
+      },
+      "units": [
+        {
+          "name": "Ria Laço F",
+          "lock": "nuki"
+        }
+      ]
+    },
+    {
+      "name": "Cais do Sal",
+      "codes": {
+        "building": "1980#"
+      },
+      "units": [
+        {
+          "name": "Cais do Sal E",
+          "lock": "tedee"
+        }
+      ]
+    },
+    {
+      "name": "Gran Ria",
+      "codes": {
+        "building": "2026#"
+      },
+      "units": [
+        {
+          "name": "Gran Ria E",
+          "lock": "lockbox"
+        }
+      ]
+    },
+    {
+      "name": "Historia",
+      "codes": {
+        "building": "12026"
+      },
+      "units": [
+        {
+          "name": "Historia",
+          "lock": "tedee"
+        }
+      ]
+    },
+    {
+      "name": "Gloria",
+      "codes": {
+        "building": "u2025u"
+      },
+      "units": [
+        {
+          "name": "Gloria 1D",
+          "lock": "tedee"
+        },
+        {
+          "name": "Gloria 1F",
+          "lock": "tedee"
+        }
+      ]
+    },
+    {
+      "name": "Ruela",
+      "codes": {},
+      "units": [
+        {
+          "name": "Ruela 96",
+          "lock": "tuya"
+        }
+      ]
+    },
+    {
+      "name": "Tomasias",
+      "codes": {},
+      "units": [
+        {
+          "name": "Tomasias 23 A",
+          "lock": "lockin"
+        }
+      ]
+    },
+    {
+      "name": "Vela Marina 270",
+      "codes": {
+        "building": "1792"
+      },
+      "units": [
+        {
+          "name": "Vela Marina FF",
+          "lock": "lockbox"
+        }
+      ]
+    },
+    {
+      "name": "NB Life",
+      "codes": {
+        "building": "0324#"
+      },
+      "units": [
+        {
+          "name": "NB Life V",
+          "lock": "Rent&Pass"
+        }
+      ]
+    }
+  ]
+}
