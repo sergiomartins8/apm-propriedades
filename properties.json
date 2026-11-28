@@ -298,6 +298,19 @@
           "lock": "Rent&Pass"
         }
       ]
+    },
+    {
+      "name": "Barroka",
+      "codes": {
+        "condo": "#123456#",
+        "building": "3864#"
+      },
+      "units": [
+        {
+          "name": "Barroka AQ",
+          "lock": "tedee"
+        }
+      ]
     }
   ]
 }
